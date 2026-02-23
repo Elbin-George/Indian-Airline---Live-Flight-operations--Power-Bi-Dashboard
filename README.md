@@ -43,7 +43,7 @@ The project uses:
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot below)
+
 
 ![Dashboard Screenshot](dashboard_image.png)
 
@@ -70,5 +70,5 @@ Completed and published as part of my data analytics portfolio.
 ---
 
 ## 🙌 Author
-Your Name  
+Elbin George  
 Aspiring Data Analyst
